@@ -10,6 +10,6 @@
      $tk = $_GET['txttaikhoan'];
         echo "Tài khoản là: " . $_GET['txttaikhoan'] . "</br> In bằng cách khai báo biến: ". $tk . "<br/>Mật khẩu là: " .$_GET['txtmatkhau'] ."<br/>"; 
     ?>
-<a href="../login.php" >Quay lại trang Đăng nhập</a>
+<a href="../get_post/login.php" >Quay lại trang Đăng nhập</a>
 </body>
 </html>

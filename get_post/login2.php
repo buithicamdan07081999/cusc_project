@@ -6,9 +6,10 @@
     <title>LOGIN FORM</title>
 </head>
 <body>
-<a href="index.php" >Quay lại trang chủ</a>
-    <h1>ĐĂNG NHẬP GET</h1>
-    <form id="login_from" name="login_form" method="get" action="control/xulydangnhap.php">
+<a href="../index.php" >Quay lại trang chủ</a>
+
+    <h1>ĐĂNG NHẬP POST</h1>
+    <form id="login_from" name="login_form" method="post" action="../control/xulydangnhap_post.php">
     <label>Tài khoản</label>
     <input type="text" name="txttaikhoan" id="txttaikhoan" />
 
