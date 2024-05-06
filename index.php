@@ -14,7 +14,8 @@
 ?>
 <br/>
 <a href="get_post/login.php">PHƯƠNG THỨC GET</a><br/>
-<a href="get_post/login2.php">PHƯƠNG THỨC POST</a>
+<a href="get_post/login2.php">PHƯƠNG THỨC POST</a><br/>
+<a href="get_post/ketquahoctap.php">KẾT QUẢ HỌC TẬP</a>
 </head>
 <body>
     
