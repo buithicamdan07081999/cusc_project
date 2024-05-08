@@ -76,7 +76,7 @@
     $arrTen = ['Đan','Vy','Cường'];
     foreach($arrTen as $index => $ten)
     {
-        echo 'Nhân viên thứ '. $index . ': ' . $ten . '<br/>';
+        echo 'Nhân viên thứ '. $index+1 . ': ' . $ten . '<br/>';
     }
     ?>
 
