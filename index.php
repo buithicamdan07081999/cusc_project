@@ -39,6 +39,9 @@
         <li>
             <a href="while_for/vong-lap.php">VÒNG LẶP</a>
         </li>
+        <li>
+            <a href="while_for/ngay-thang-nam.php">NGÀY THÁNG NĂM</a>
+        </li>
     </ul>
 </head>
 
