@@ -1,0 +1,3 @@
+<div class="text-center bg-dark text-white p-3">
+    Bản quyền bởi &copy; 2024...
+</div>
